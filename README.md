@@ -1,1 +1,1 @@
-# Your site is live at http://freshteacher.software/insidious-movie/
+# https://insidious-movie.vercel.app/
